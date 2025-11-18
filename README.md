@@ -1,7 +1,7 @@
 # Hand Distance Alert
 
 Real-time hand detection and distance measurement using Mediapipe.  
-If your hand comes too close to the camera (<30 cm), a beep sound is played using Pygame. The program can be closed by pressing `'q'` or clicking the window close button.
+If your hand comes too close to the camera (<20 cm), a beep sound is played using Pygame. The program can be closed by pressing `'q'` or clicking the window close button.
 
 ---
 
